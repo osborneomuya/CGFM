@@ -1,0 +1,92 @@
+{
+    "Presenters": [
+        {
+            "hosts" : "Winifrida_Celestine",
+    "photo" : "http://blog.cgfmradio.com/wp-content/uploads/2017/08/Winifrida_Celestine-e1503673271568.jpg",
+    "picture" : {
+      "large" :"http://blog.cgfmradio.com/wp-content/uploads/2017/08/Winifrida_Celestine-e1503673271568.jpg",
+      "medium" : "http://blog.cgfmradio.com/wp-content/uploads/2017/08/Winifrida_Celestine-e1503673271568.jpg",
+      "thumbnail" : "http://blog.cgfmradio.com/wp-content/uploads/2017/08/Winifrida_Celestine-e1503673271568.jpg"
+    },
+    "profile" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "social" : {
+      "facebook" : "https://www.facebook.com/",
+      "instagram" : "https://www.instagram.com/",
+      "twitter" : "https://twitter.com/"
+    }
+  }, {
+    "hosts" : "Waitume_Mashaka",
+    "photo" : "http://blog.cgfmradio.com/wp-content/uploads/2017/08/Waitume_Mashaka.jpg",
+    "picture" : {
+      "large" : "http://blog.cgfmradio.com/wp-content/uploads/2017/08/Waitume_Mashaka.jpg",
+      "medium" : "http://blog.cgfmradio.com/wp-content/uploads/2017/08/Waitume_Mashaka.jpg",
+      "thumbnail" : "http://blog.cgfmradio.com/wp-content/uploads/2017/08/Waitume_Mashaka.jpg"
+    },
+    "profile" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "social" : {
+      "facebook" : "https://www.facebook.com/",
+      "instagram" : "https://www.instagram.com/",
+      "twitter" : "https://twitter.com/"
+    }
+  }, {
+    "hosts" : "vivian_pyuza",
+    "photo" : "http://blog.cgfmradio.com/wp-content/uploads/2017/08/vivian_pyuza.jpg",
+    "picture" : {
+      "large" : "http://blog.cgfmradio.com/wp-content/uploads/2017/08/vivian_pyuza.jpg",
+      "medium" : "http://blog.cgfmradio.com/wp-content/uploads/2017/08/vivian_pyuza.jpg",
+      "thumbnail" : "http://blog.cgfmradio.com/wp-content/uploads/2017/08/vivian_pyuza.jpg"
+    },
+    "profile" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "social" : {
+     "facebook" : "https://www.facebook.com/",
+      "instagram" : "https://www.instagram.com/",
+      "twitter" : "https://twitter.com/"
+    }
+  }, {
+    "hosts" : "Verinica Medard",
+    "photo" : "http://blog.cgfmradio.com/wp-content/uploads/2017/08/Verinica_Medard.jpg",
+    "picture" : {
+      "large" :"http://blog.cgfmradio.com/wp-content/uploads/2017/08/Verinica_Medard.jpg",
+      "medium" :"http://blog.cgfmradio.com/wp-content/uploads/2017/08/Verinica_Medard.jpg",
+      "thumbnail" : "http://blog.cgfmradio.com/wp-content/uploads/2017/08/Verinica_Medard.jpg"
+    },
+    "profile" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "social" : {
+      "facebook" : "https://www.facebook.com/",
+      "instagram" : "https://www.instagram.com/",
+      "twitter" : "https://twitter.com/"
+    }
+  }, {
+    "hosts" : "Lisa Graham",
+    "photo" : "https://randomuser.me/api/portraits/women/64.jpg",
+    "picture" : {
+      "large" : "https://randomuser.me/api/portraits/women/64.jpg",
+      "medium" : "https://randomuser.me/api/portraits/med/women/64.jpg",
+      "thumbnail" : "https://randomuser.me/api/portraits/thumb/women/64.jpg"
+    },
+    "profile" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "social" : {
+      "facebook" : "https://www.facebook.com/",
+      "instagram" : "https://www.instagram.com/",
+      "twitter" : "https://twitter.com/"
+    }
+  }, {
+    "hosts" : "Titus philip",
+    "photo" : "http://blog.cgfmradio.com/wp-content/uploads/2017/08/titus_philip.jpg",
+    "picture" : {
+      "large" : "http://blog.cgfmradio.com/wp-content/uploads/2017/08/titus_philip.jpg",
+      "medium" : "http://blog.cgfmradio.com/wp-content/uploads/2017/08/titus_philip.jpg",
+      "thumbnail" : "http://blog.cgfmradio.com/wp-content/uploads/2017/08/titus_philip.jpg"
+    },
+    "profile" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "social" : {
+      "facebook" : "https://www.facebook.com/",
+      "instagram" : "https://www.instagram.com/",
+      "twitter" : "https://twitter.com/"
+    }
+  },
+       
+        
+        
+    ]
+}

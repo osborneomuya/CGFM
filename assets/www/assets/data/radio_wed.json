@@ -1,0 +1,158 @@
+{
+    "wed": [
+        {
+            "show": "The Morning Show",
+            "hosts": "Clyde Smith",
+            "time": "06h00 - 09h00",
+            "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "profile": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/1.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/1.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/1.jpg"
+            },
+            "social": {
+                "twitter": "https://twitter.com/tmunyaka",
+                "facebook": "https://www.facebook.com/cliffcentral/",
+                "instagram": "https://www.instagram.com/touchhdonline/"
+            }
+        },
+        {
+            "show": "The Midday Show",
+            "hosts": "Pez Johnson",
+            "time": "09h00 - 12h00",
+            "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "profile": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/94.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/94.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/94.jpg"
+            },
+            "social": {
+                "twitter": "https://twitter.com/Yfm",
+                "facebook": "https://www.facebook.com/TouchHDonline/",
+                "instagram": "https://www.instagram.com/cliffcentralcom/"
+            }
+        },
+        {
+            "show": "The Afternoon Show",
+            "hosts": "TJ Caesar",
+            "time": "12h00 - 15h00",
+            "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "profile": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/82.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/82.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/82.jpg"
+            },
+            "social": {
+                "twitter": "https://twitter.com/TouchHDOnline",
+                "facebook": "https://www.facebook.com/cliffcentral/",
+                "instagram": "https://www.instagram.com/yfm/"
+            }
+        },
+        {
+            "show": "The Drive Show",
+            "hosts": "Ogi Kwan",
+            "time": "15h00 - 18h00",
+            "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "profile": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/3.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/3.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/3.jpg"
+            },
+            "social": {
+                "twitter": "https://twitter.com/CliffCentralCom",
+                "facebook": "https://www.facebook.com/TouchHDonline/",
+                "instagram": "https://www.instagram.com/touchhdonline/"
+            }
+        },
+        {
+            "show": "The Evening Show",
+            "hosts": "Lisa Graham",
+            "time": "18h00 - 21h00",
+            "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "profile": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/64.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/64.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/64.jpg"
+            },
+            "social": {
+                "twitter": "https://twitter.com/TouchHDOnline",
+                "facebook": "https://www.facebook.com/cliffcentral/",
+                "instagram": "https://www.instagram.com/yfm/"
+            }
+        },
+        {
+            "show": "The Late Night Show",
+            "hosts": "TC Roberts",
+            "time": "21h00 - 00h00",
+            "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "profile": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/84.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/84.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/84.jpg"
+            },
+            "social": {
+                "twitter": "https://twitter.com/tmunyaka",
+                "facebook": "https://www.facebook.com/TouchHDonline/",
+                "instagram": "https://www.instagram.com/cliffcentralcom/"
+            }
+        },
+        {
+            "show": "The Midnight Oil",
+            "hosts": "Mike Smith",
+            "time": "00h00 - 02h00",
+            "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "profile": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/4.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/4.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/4.jpg"
+            },
+            "social": {
+                "twitter": "https://twitter.com/tmunyaka",
+                "facebook": "https://www.facebook.com/TouchHDonline/",
+                "instagram": "https://www.instagram.com/cliffcentralcom/"
+            }
+        },
+        {
+            "show": "The Guard on Duty",
+            "hosts": "Ronda Nel",
+            "time": "0200 - 04h00",
+            "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "profile": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/80.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/80.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/80.jpg"
+            },
+            "social": {
+                "twitter": "https://twitter.com/tmunyaka",
+                "facebook": "https://www.facebook.com/TouchHDonline/",
+                "instagram": "https://www.instagram.com/cliffcentralcom/"
+            }
+        },
+        {
+            "show": "The Early Bird Show",
+            "hosts": "John Doe",
+            "time": "04h00 - 06h00",
+            "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "profile": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/92.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/92.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/92.jpg"
+            },
+            "social": {
+                "twitter": "https://twitter.com/tmunyaka",
+                "facebook": "https://www.facebook.com/TouchHDonline/",
+                "instagram": "https://www.instagram.com/cliffcentralcom/"
+            }
+        }
+        
+    ]
+}

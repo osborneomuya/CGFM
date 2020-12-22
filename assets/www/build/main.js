@@ -603,14 +603,14 @@ var MyApp = (function () {
             splashScreen.hide();
             //Firebase configuration - replace the below with your own details from Firebase.
             __WEBPACK_IMPORTED_MODULE_6_firebase___default.a.initializeApp({
-                apiKey: "AIzaSyBGWimmLhiUoyIh9O4Fnvpx-qRBm1y1fuU",
-                    authDomain: "cgfm-88895.firebaseapp.com",
-                    databaseURL: "https://cgfm-88895.firebaseio.com",
-                    projectId: "cgfm-88895",
-                    storageBucket: "cgfm-88895.appspot.com",
-                    messagingSenderId: "535017758345",
-                    appId: "1:535017758345:web:00ba184ad6371070f6f058",
-                    measurementId: "G-2XSGY6J1BR"
+                apiKey: "AIzaSyAZ-IPbkfjVYhCd3MyX9-tTBLjbjup1JRs",
+                authDomain: "cgfm-radio.firebaseapp.com",
+                databaseURL: "https://cgfm-radio.firebaseio.com",
+                projectId: "cgfm-radio",
+                storageBucket: "cgfm-radio.appspot.com",
+                messagingSenderId: "203081765714",
+                appId: "1:203081765714:web:39183891f4f99c2d1b208b"
+
             });
             // OneSignal Push Notification Service Configuration
             var notificationOpenedCallback = function (jsonData) {
@@ -755,7 +755,7 @@ var HomePage = (function () {
                 var bannerConfig = {
 
                     autoShow: true,
-                    id: 'YOUR APP ID'
+                    id: 'ca-app-pub-4213856381914361~9781310036'
                 };
                 _this.admobFree.banner.config(bannerConfig);
                 _this.admobFree.banner.prepare().then(function () {

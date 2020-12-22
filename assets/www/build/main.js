@@ -755,7 +755,7 @@ var HomePage = (function () {
                 var bannerConfig = {
 
                     autoShow: true,
-                    id: 'YOUR APP ID'
+                    id: 'ca-app-pub-4213856381914361~9781310036'
                 };
                 _this.admobFree.banner.config(bannerConfig);
                 _this.admobFree.banner.prepare().then(function () {

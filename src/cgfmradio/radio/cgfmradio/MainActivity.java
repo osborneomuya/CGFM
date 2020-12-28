@@ -17,7 +17,7 @@
        under the License.
  */
 
-package com.cgfmradiotabora.radio;
+package com.cgfmradi.radio;
 
 import android.os.Bundle;
 import org.apache.cordova.*;

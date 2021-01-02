@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<manifest android:hardwareAccelerated="true" android:versionCode="20021" android:versionName="1.2.0" package="com.cgfmradi.radio" xmlns:android="http://schemas.android.com/apk/res/android">
+<manifest xmlns:tools="http://schemas.android.com/tools"
+    android:hardwareAccelerated="true" android:versionCode="20022" android:versionName="1.2.0" package="com.cgfmradi.radio" xmlns:android="http://schemas.android.com/apk/res/android">
     <supports-screens android:anyDensity="true" android:largeScreens="true" android:normalScreens="true" android:resizeable="true" android:smallScreens="true" android:xlargeScreens="true" />
     <uses-permission android:name="android.permission.INTERNET" />
-    <application android:hardwareAccelerated="true" android:icon="@mipmap/icon" android:label="CG FM" android:supportsRtl="true">
+    <application android:hardwareAccelerated="true" android:icon="@mipmap/icon" android:label="CG FM" android:supportsRtl="true"
+        tools:ignore="ExtraText" android:usesCleartextTraffic="true">
         <activity android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale" android:label="CGFM" android:launchMode="singleTop" android:name=".MainActivity" android:theme="@android:style/Theme.DeviceDefault.NoActionBar" android:windowSoftInputMode="adjustResize">
             <intent-filter android:label="CG FM">
                 <action android:name="android.intent.action.MAIN" />
@@ -26,7 +28,7 @@
             android:name="com.google.android.gms.ads.APPLICATION_ID"
             android:value="ca-app-pub-3510461433663738~7758493723"/>
     </application>
-    <uses-sdk android:targetSdkVersion="25" />
+    <uses-sdk android:targetSdkVersion="29" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.RECORD_AUDIO" />
@@ -35,4 +37,5 @@
     <uses-permission android:name="com.amazon.device.messaging.permission.RECEIVE" />
     <permission android:name="com.appimobile.radio.permission.RECEIVE_ADM_MESSAGE" android:protectionLevel="signature" />
     <uses-permission android:name="com.appimobile.radio.permission.RECEIVE_ADM_MESSAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
 </manifest>
